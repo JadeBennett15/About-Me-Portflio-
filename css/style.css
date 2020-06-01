@@ -1,0 +1,99 @@
+.same{
+    background-color: #BEBEBE;
+}
+.header{
+    display: flex;
+    background-color: #FAFAFA;
+    position: fixed;
+    border: 3px #FAFAFA;
+}
+
+.logo{
+    float:left;
+    padding-top: 2%;
+   padding-left: 2%;
+}
+
+.menuBar{
+    float: right;
+    margin-right: auto;
+   padding-top: 2%;
+   padding-right: 2%;
+    top: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+.aboutMe{
+    background-color: #BEBEBE;
+    display: inline-block;
+    padding: 50px;
+    margin: 20px;
+}
+.words{
+    padding-left: 50px;
+    vertical-align: middle;
+}
+
+.selfImage{
+    float: left;
+    padding: 50px;
+}
+
+.footer{
+    float:left;
+    width:70%
+}
+
+.rights{
+    float:right;
+    width:10%
+}
+
+.primarySkills{
+    background-color: #FAFAFA;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+}
+
+.research, .empathy, .designCoding{
+    margin: 0%;
+    background-color: #FAFAFA;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.tools{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3%;
+}
+
+.one{
+    padding-top: 3%;
+    padding-right: 10%;
+}
+
+.two{
+    padding-top: 3%;
+    padding-right: 10%;
+}
+
+.three{
+    padding-top: 3%;
+    padding-right: 10%;
+}
+
+.four{
+    padding-top: 3%;
+    padding-right: 10%;
+}
+
+.rights{
+    float: right;
+    width: 10%
+}
